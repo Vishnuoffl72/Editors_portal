@@ -48,7 +48,7 @@ const Homepage = () => {
     <main>
       <div className="navbar navbar-expand-lg navbar-light bg-primary  justify-content-between align-items-center">
         <div className="navbar-brand"> 
-          <h4 className="nav_title">Happy Trucking!!</h4>
+          <h4 className="nav_title">Editors_library</h4>
         </div>
         <div className="search-box">
           <div className="search">
